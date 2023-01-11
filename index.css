@@ -1,0 +1,255 @@
+body {
+    background-image: url(./hatter.jpg);
+    background-repeat: repeat;
+    background-size: auto;
+    font-family: sans-serif ;
+    margin: 0%;
+}
+
+.navsav {
+   
+    background: rgba(34, 34, 34, 1);
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    height: 40px;
+    top: 0px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.main1 {
+    margin-top: 30px;
+    
+ 
+      
+}
+   
+
+.kozepcim {
+    color: white;
+    text-align: center;
+    justify-content: center;
+    margin: 0%;
+    padding: 0%;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+
+
+.cimigazitas {
+    top: 50px;
+    position: relative;
+    
+}
+
+#piros {
+    color: red;
+
+}
+
+#zold {
+    color: rgb(32, 204, 32);
+    margin-bottom: 30px;
+}
+
+.carouselpos {
+    position: relative;
+    top: 100px;
+    background-color: rgba(34, 34, 34, 1);
+    
+    
+}
+
+.button1 {
+    width: 100px;
+    height: 30px;
+    border-radius: 15px 15px 15px 15px;
+    background: none;
+    color: white;
+    border-color: white;
+    border-style: ridge;
+    margin-left: 30px;
+    
+}
+
+.button1-0 {
+    width: 400px;
+    height: 30px;
+    border-radius: 15px 15px 15px 15px;
+    background: none;
+    color: white;
+    border-color: white;
+    border-style: ridge;
+    margin-left: 750px;
+    
+}
+
+.button2 {
+    width: 100px;
+    height: 60px;
+    border-radius: 15px 15px 15px 15px;
+    background: yellow;
+    color: white;
+    border-color: white;
+    border-style: ridge;
+    margin-left: 30px;
+    
+}
+
+
+
+
+.navsav button:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgba(34, 34, 34, 1);
+}
+
+.navsav button:active {
+    background-color: rgb(255, 255, 255);
+    color: rgba(34, 34, 34, 1);
+}
+
+.navbuttpos {
+    top: 5px;
+    margin-top: 5px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 10px #939799;
+    border-radius: 10px;
+  }
+  
+  
+  ::-webkit-scrollbar-thumb {
+    background: rgba(34, 34, 34, 1);
+    border-radius: 10px;
+  }
+
+  .rolunkp {
+    color: white;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+  }
+  .rolunkdiv {
+    width: 500px;
+    border-radius: 30px 30px 30px 30px;
+    margin-bottom: 50px;
+    background-color: none;
+    padding: 20px 20px 20px 20px;
+    position: relative;
+    background-color: rgba(34, 34, 34, 1);
+    border: 3px;
+    
+    
+  }
+
+  .rendiv1 {
+left: 50%;
+border-color: #ffffff;
+border-style: dashed;
+  }
+.rendiv2 {
+right: -25%;
+border-color: #ffffff;
+border-style: dashed;
+}
+
+
+
+.button3 {
+    width: 300px;
+    height: 60px;
+    border-radius: 30px 30px 30px 30px;
+    background: none;
+    font-size: larger;
+    color: white;
+    border-color: white;
+    border-style: solid;
+    margin-left: 30px;
+    
+}
+.button4 {
+    background: none;
+    border: none;
+}
+
+.rolunkdiv1 {
+    width: 300px;
+    border-radius: 30px 30px 30px 30px;
+    margin-bottom: 50px;
+    background-color: rgba(34, 34, 34, 1);
+    padding: 20px 20px 20px 20px;
+    position: relative;
+    border: 3px dashed rgb(255, 255, 255);
+    color: white;
+    text-align: center;
+    font-size: larger;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+}
+
+.buttnone {
+    background: none;
+    border: none;
+    color: white;
+}
+
+
+.lablec {
+width: 100%;
+height: 300px;
+background-color:rgba(34, 34, 34, 1) ;
+
+}
+
+.button5 {
+    width: 100px;
+    height: 30px;
+    border-radius: 30px 30px 30px 30px;
+    background: none;
+    font-size: larger;
+    color: white;
+    border-color: white;
+    border-style: dashed;
+    margin-left: 30px;
+    position: relative;
+    bottom: -150px;
+    
+}
+h3 {
+    color: white;
+    text-align: center;
+    border-style: dashed;
+    border-color: white;
+    border-radius: 30px 30px 30px 30px;
+    width: 100%;
+    justify-content: center;
+    left: 50%;
+    right: 50%;
+    margin-top: 50px;
+}
+
+p {
+    color: white;
+}
+
+.alairas {
+    position: relative;
+    bottom: -90px;
+    left: 76%;
+    width: fit-content;
+   
+}
+
+.effekt1 a:hover, a:active {
+    background-color: rgb(110, 110, 110);
+    color: rgb(0, 0, 0);
+}
